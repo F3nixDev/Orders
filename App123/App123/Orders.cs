@@ -20,7 +20,7 @@ namespace App123
                 var ordersNumber = split[1];
                 var data = split[8];
                 var Trimmed = data.Replace("data=", "").Trim('{').Trim('}').Split(";");
-                var BanikPico = "";
+                var final = "";
 
                 var count = 0;
 
@@ -41,8 +41,8 @@ namespace App123
                 }
 
                 Console.WriteLine(ordersNumber.Trim('x') + " "  + count.ToString().Trim('x'));
-                BanikPico = ordersNumber.Trim('x') + " " + count.ToString().Trim('x');
-                sr.WriteLine(BanikPico);
+                final = ordersNumber.Trim('x') + " " + count.ToString().Trim('x');
+                sr.WriteLine(final);
             }
         }
     }
