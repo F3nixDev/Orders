@@ -1,0 +1,16 @@
+C:\Users\1077\source\repos\App123\App123\bin\Debug\net5.0\App123.exe
+C:\Users\1077\source\repos\App123\App123\bin\Debug\net5.0\App123.deps.json
+C:\Users\1077\source\repos\App123\App123\bin\Debug\net5.0\App123.runtimeconfig.json
+C:\Users\1077\source\repos\App123\App123\bin\Debug\net5.0\App123.runtimeconfig.dev.json
+C:\Users\1077\source\repos\App123\App123\bin\Debug\net5.0\App123.dll
+C:\Users\1077\source\repos\App123\App123\bin\Debug\net5.0\ref\App123.dll
+C:\Users\1077\source\repos\App123\App123\bin\Debug\net5.0\App123.pdb
+C:\Users\1077\source\repos\App123\App123\obj\Debug\net5.0\App123.csproj.AssemblyReference.cache
+C:\Users\1077\source\repos\App123\App123\obj\Debug\net5.0\App123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1077\source\repos\App123\App123\obj\Debug\net5.0\App123.AssemblyInfoInputs.cache
+C:\Users\1077\source\repos\App123\App123\obj\Debug\net5.0\App123.AssemblyInfo.cs
+C:\Users\1077\source\repos\App123\App123\obj\Debug\net5.0\App123.csproj.CoreCompileInputs.cache
+C:\Users\1077\source\repos\App123\App123\obj\Debug\net5.0\App123.dll
+C:\Users\1077\source\repos\App123\App123\obj\Debug\net5.0\ref\App123.dll
+C:\Users\1077\source\repos\App123\App123\obj\Debug\net5.0\App123.pdb
+C:\Users\1077\source\repos\App123\App123\obj\Debug\net5.0\App123.genruntimeconfig.cache

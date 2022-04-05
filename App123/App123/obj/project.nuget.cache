@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wUEhd8CSV68tpAmynuGnQYgYxaBN/CHG1vYS/03aZT1Fh3DEZvLNZtX+wdPn0hC71UVNqU0qdvZ2u2LYdQA6Vw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1077\\source\\repos\\App123\\App123\\App123.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1077\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
